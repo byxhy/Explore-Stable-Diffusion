@@ -1,0 +1,49 @@
+title = "Elon Musk Tells Trump the Mars Landing Story"
+description = "Elon Musk hilariously recounts his journey to landing on Mars to Donald Trump."
+global_image_style = "comedy"
+bgm_category = "upbeat"
+[[characters]]
+name = "Donald Trump"
+default_image_prompt = "Donald Trump with his signature hairstyle"
+voice_token = "TM:djceg00wmcv5"
+
+[[characters]]
+name = "Elon Musk"
+default_image_prompt = "Elon Musk wearing a SpaceX t-shirt"
+voice_token = "TM:0vckhrxztgcw"
+
+[[lines]]
+character = "Elon Musk"
+speech = "So, Mr. President, let me tell you about the time we landed on Mars."
+image_prompt = "Elon Musk excitedly pointing at a globe with Mars highlighted"
+
+[[lines]]
+character = "Donald Trump"
+speech = "Wait, you actually made it to Mars? I thought it was just a hoax!"
+image_prompt = "Donald Trump with a skeptical expression, holding a newspaper with a headline 'Elon Musk: Mission to Mars Accomplished'"
+
+[[lines]]
+character = "Elon Musk"
+speech = "No, it's real! We sent a rocket called Falcon Heavy, and it successfully reached Mars."
+image_prompt = "Elon Musk proudly showing a rocket model with Mars in the background"
+
+[[lines]]
+character = "Donald Trump"
+speech = "And what did you find there?"
+image_prompt = "Donald Trump holding a magnifying glass, pretending to search for aliens on Mars"
+
+[[lines]]
+character = "Elon Musk"
+speech = "Well, we haven't found aliens yet, but we did find some really interesting rock formations."
+image_prompt = "Elon Musk holding a rock and pretending to listen to it, with a comical expression"
+
+[[lines]]
+character = "Donald Trump"
+speech = "Rock formations? That's it? I was expecting Martians and flying saucers!"
+image_prompt = "Donald Trump with a disappointed expression, holding a toy UFO"
+
+[[lines]]
+character = "Elon Musk"
+speech = "Sorry to disappoint, Mr. President. But we're still exploring and aiming for more!"
+image_prompt = "Elon Musk with a determined expression, holding a flag with the SpaceX logo and Mars in the background"
+

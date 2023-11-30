@@ -1,7 +1,0 @@
-tqdm
-toml
-image
-ffmpeg-python
-Pillow
-beautifulsoup4
-requests

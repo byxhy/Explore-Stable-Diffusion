@@ -1,0 +1,143 @@
+# this contains a curated list
+# of popular characters
+# that work well with stable diffusion
+# and FakeYou
+
+[GLaDOS]
+image_prompt = "GLaDOS"
+default_voice = "TM:fm4h94vk4eem"
+
+["Homer Simpson"]
+image_prompt = "Homer Simpson"
+default_voice = "TM:r9mxvgcybyy5"
+
+["Samuel L. Jackson"]
+image_prompt = "Samuel L. Jackson"
+default_voice = "TM:1kxgs8qffn08"
+
+["Morgan Freeman"]
+image_prompt = "Morgan Freeman"
+default_voice = "TM:709ck7g83431"
+
+[Wallace]
+image_prompt = "Wallace adult man (wallace & gromit), claymation, stop motion"
+default_voice = "TM:sq8sn457mb63"
+
+[Yugi]
+image_prompt = "Yugi, anime, spiky hair"
+default_voice = "TM:4khbj8e538c1"
+
+[Shrek]
+image_prompt = "Shrek"
+default_voice = "TM:2pw2a5drwx49"
+
+[Yoda]
+image_prompt = "Yoda"
+default_voice = "TM:ydfm7kj9kdwh"
+
+["Weird Al"]
+image_prompt = "Wierd Al"
+default_voice = "TM:rawayafee2a2"
+
+["Joey Wheeler"]
+image_prompt = "joey wheeler, male, anime, spiky hair, blond, bangs, jacket"
+default_voice = "TM:9ahjngw6xsc7"
+
+["Seto Kaiba"]
+image_prompt = "Seto Kaiba"
+default_voice = "TM:xa5e6b8z5y7q"
+
+["Tristan Taylor"]
+image_prompt = "Tristan Taylor, anime"
+default_voice = "TM:9z24nzyvc2r4"
+
+["Mokuba Kaiba"]
+image_prompt = "Mokuba Kaiba"
+default_voice = "TM:yvf2q0p6svsg"
+
+["Mai Valentine"]
+image_prompt = "Mai Valentine, anime"
+default_voice = "TM:2ffp1en0xd9f"
+
+[Mario]
+image_prompt = "Mario with red cap and mustache"
+default_voice = "TM:c7j599fz0pbg"
+
+[Luigi]
+image_prompt = "Luigi with green cap and mustache"
+default_voice = "TM:fp4fcyja6mk1"
+
+["Bill Nye"]
+image_prompt = "Billy Nye"
+default_voice = "TM:3e0wsf4wqcpv"
+
+[Wario]
+image_prompt = "Wario"
+default_voice = "TM:pwwcbzscesd0"
+
+["Slippy Toad"]
+image_prompt = ""
+
+[Voldemort]
+image_prompt = "Voldemort"
+default_voice = "TM:nczpqg58jj6n"
+
+[Kurzgesagt]
+image_prompt = "kurzgesagt bird with big white eyes, orange feet, after effects, material design, soft shadows, high saturation, rounded edges, smooth"
+default_voice = "TM:9msyk3s92yrv"
+
+[Donkey]
+image_prompt = "Fuzzy donkey"
+default_voice = "TM:9napv5ew50jv"
+
+["Tobey Maguire"]
+image_prompt = "Tobey Maguire"
+default_voice = "TM:tqp1k2ne5j33"
+
+[Gandhi]
+image_prompt = "Mahatma Gandhi"
+default_voice = "TM:cvw5qkye9y22"
+
+["Donald Trump"]
+image_prompt = "Donald Trump"
+default_voice = "TM:4v0ft4j72y2g"
+
+["Barack Obama"]
+image_prompt = "Barack Obama"
+default_voice = "TM:58vtv7x9f32c"
+
+["Jack Sparrow"]
+image_prompt = "Jack Sparrow"
+default_voice = "TM:da7yzmfnb8f8"
+
+["Jaiden Animations"]
+image_prompt = "JaidenAnimations white background digital black and white drawing of young cartoon woman, adobe animate"
+default_voice = "TM:5dvdrx4rx66j"
+
+["Shaggy Rogers"]
+image_prompt = "Shaggy Rogers, scooby doo cartoon"
+default_voice = "TM:nafjqbyvq9jm"
+
+["Scooby Doo"]
+image_prompt = "Scooby Doo, cartoon dog"
+default_voice = "TM:3fcxdr8nyvgm"
+
+["Ash Ketchum"]
+image_prompt = "Ash Ketchum, cartoon, pokemon"
+default_voice = "TM:en3qrb031jz4"
+
+["Meowth"]
+image_prompt = "Meowth, pokemon"
+default_voice = "TM:cqa6nrcqhn8j"
+
+["Queen Elizabeth II"]
+image_prompt = "Queen Elizabeth II"
+default_voice = "TM:4jhmevqnrqp5"
+
+["Elon Musk"]
+image_prompt = "Elon Musk"
+default_voice = "TM:sbkwx83wahb1"
+
+["TheOdd1sOut"]
+image_prompt = "TheOdd1sOut white round happy cartoon man smile"
+default_voice = "TM:1fayhyx6dcs4"

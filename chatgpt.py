@@ -6,7 +6,7 @@ import requests
 import json
 
 def generate_script(prompt, temperature: float, max_tokens:int=2048) -> dict:
-    openai_api_key = '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'
+    openai_api_key = 'sk-xxx'
 
     headers = {
     "Content-Type": "application/json",

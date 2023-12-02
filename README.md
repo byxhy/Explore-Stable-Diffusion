@@ -1,6 +1,7 @@
-What is Explore-Stable-Diffusion?
+CS577 Group Project: Explore the Application of Diffusion Model in Video Content Creation
 -----
-This is a repository of exploratory experiments for the application of stable diffusion models
+
+This is a repository of Explore the Application of Diffusion Model in Video Content Creation
 
 
 Group Info
@@ -12,6 +13,8 @@ Group Info
 
 File Description
 ------
-01-04 ipynb: Recorded the project implementation process of the project team members. In order to complete the creation of text to video, basic theoretical learning, relevant code verification, and the completion of the entire demo process
+01-04 ipynb files: Recorded the project implementation process of the project team members. In order to complete the creation of text to video, basic theoretical learning, relevant code verification, and the completion of the entire demo process.
 
-function code: The code in this folder will be imported by "03-Completed Application in Video Content Creation.ipynb" and is the functional code of the project.
+functioncode folder: The code in this folder will be imported by "03-Completed Application in Video Content Creation.ipynb" and is the functional code of the project.
+
+Explore the Application of Diffusion Model in Video Content Creation.pptx: Project Presentation Power-Point-File.

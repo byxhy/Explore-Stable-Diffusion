@@ -51,6 +51,17 @@ Cooperation and division of labor
   - Create and maintain this github repository
 
 - [Yu Li](https://github.com/liyu98)
+  - Explore the applications of stable diffusion experiments
+    - 01_Study the Diffusion Model Step By Step.ipynb
+    - 02_Apply the Diffusion Model to Generate Images and Music.ipynb
+    - 03_Application_in_Video_Content_Creation  
+  - Participate in writing reports
+    - CS577_Project_proposal.pdf
+    - CS577_Intermediate_Project_Report.pdf
+    - CS577_Final_Project_Report.pdf
+  - Prepare presentation slides （ Model Principles and Training ）
+    - Explore the Application of Diffusion Model in Video Content Creation.pptx
+
 
 - [Haichen Pang](https://github.com/panghc2020)
 

@@ -66,7 +66,7 @@ Cooperation and division of labor
   - Organized 3 online meetings for project phase discussions
   - Create and maintain this github repository
 
-- [Yu Li](https://github.com/liyu98)
+- [Yu Li / A20496405](https://github.com/liyu98)
   - Explore the applications of stable diffusion experiments
     - 01_Study the Diffusion Model Step By Step.ipynb
     - 02_Apply the Diffusion Model to Generate Images and Music.ipynb

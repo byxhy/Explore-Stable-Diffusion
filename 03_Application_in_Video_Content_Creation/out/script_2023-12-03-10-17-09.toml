@@ -1,0 +1,54 @@
+title = "Musk Tells Trump the Mars Landing Story"
+description = "Elon Musk hilariously recounts the adventure of landing on Mars to Donald Trump. Get ready for an out-of-this-world comedy!"
+global_image_style = "cartoon, in a futuristic space station"
+bgm_category = "comedy"
+[[characters]]
+name = "Donald Trump"
+default_image_prompt = "Donald Trump with his iconic orange hairstyle"
+voice_token = "TM:aejrk66wq3ss"
+
+[[characters]]
+name = "Elon Musk"
+default_image_prompt = "Elon Musk in a spacesuit, holding a Tesla Roadster"
+voice_token = "TM:sbkwx83wahb1"
+
+[[lines]]
+character = "Elon Musk"
+speech = "So, Mr. Trump, let me tell you about the time we landed on Mars!"
+image_prompt = "Elon Musk floating in zero gravity, pointing towards Mars with a mischievous smile"
+
+[[lines]]
+character = "Donald Trump"
+speech = "Oh, I love Mars! Tremendous planet, very red!"
+image_prompt = "Donald Trump wearing a space helmet, giving a thumbs-up with a Mars backdrop"
+
+[[lines]]
+character = "Elon Musk"
+speech = "Well, Mr. President, it was quite a ride. We had the Falcon Heavy rocket..."
+image_prompt = "Elon Musk and the Falcon Heavy rocket taking off, leaving a trail of smoke and fire"
+
+[[lines]]
+character = "Donald Trump"
+speech = "The best rocket! I have the best rockets!"
+image_prompt = "Donald Trump holding a small toy rocket and looking impressed"
+
+[[lines]]
+character = "Elon Musk"
+speech = "Exactly! We flew through space, watching Starman driving his Tesla Roadster!"
+image_prompt = "Elon Musk and Donald Trump watching Starman cruising in space with Earth in the background"
+
+[[lines]]
+character = "Donald Trump"
+speech = "I bet it was a beautiful view! I love Teslas!"
+image_prompt = "Donald Trump wearing sunglasses and pointing at a Tesla Roadster in space"
+
+[[lines]]
+character = "Elon Musk"
+speech = "After months of travel, we finally reached Mars. It was breathtaking!"
+image_prompt = "Elon Musk standing on Mars, admiring the Martian landscape with wonder"
+
+[[lines]]
+character = "Donald Trump"
+speech = "Did you find gold? I heard there's a lot of gold in Mars!"
+image_prompt = "Donald Trump holding a gold bar while standing on Mars, looking excited"
+

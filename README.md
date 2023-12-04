@@ -19,20 +19,36 @@ Directory Structure
     ├── 01_Study the Diffusion Model Step By Step.ipynb
     ├── 02_Apply the Diffusion Model to Generate Images and Music.ipynb
     ├── 03_Application_in_Video_Content_Creation
+    │   ├── 03-Completed Application in Video Content Creation.ipynb
+    │   ├── config
+    │   │   └── characters.toml
+    │   ├── functioncode
+    │   │   ├── character_input.py
+    │   │   ├── character_model.py
+    │   │   ├── character_script_generator.py
+    │   │   ├── character_tts.py
+    │   │   ├── chatgpt.py
+    │   │   ├── config
+    │   │   ├── ffmpg.py
+    │   │   ├── freepd.py
+    │   │   └── stability.py
+    │   ├── out
+    │   ├── renders
+    │   └── tmp
     ├── 04_Project_Experiments
     │   ├── 04_The_Experiment_of_CS577_Project.ipynb
-    │   ├── music_source  # Music sorce for generating video
-    │   │   ├── flower-146718.mp3
-    │   │   ├── stylish-rock-beat-trailer-116346.mp3
-    │   │   └── time-technology-11257.mp3
-    │   └── pipeline.png
+    │   └── music_source   # Music sorce for generating video
+    │       ├── flower-146718.mp3
+    │       ├── stylish-rock-beat-trailer-116346.mp3
+    │       └── time-technology-11257.mp3
     ├── 05_Project_Reports
     │   ├── CS577_Final_Project_Report.pdf
     │   ├── CS577_Intermediate_Project_Report.pdf
     │   └── CS577_Project_proposal.pdf
     ├── 06_Final_Project_Presentation
     │   ├── CS577_Final_Project_Presentation.pdf
-    │   └── Explore the Application of xxx.pptx
+    │   └── Explore the Application of Diffusion Model in Video Content Creation.pptx
+    └── README.md
 
 Cooperation and division of labor
 ---
@@ -68,7 +84,6 @@ Cooperation and division of labor
     - Main implementation part under 03_Application_in_Video_Content_Creation folder
   - Prepare presentation slides
     - 06_Final_Project_Presentation/Explore the Application of Diffusion Model in Video Content Creation.pptx
-Comments
   - Participated in discussions for project with online meeting
   - Sync the project progress updates to the repository
 ---

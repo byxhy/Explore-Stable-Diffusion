@@ -82,10 +82,13 @@ Cooperation and division of labor
 - [Haichen Pang / A20488354](https://github.com/panghc2020)
   - Explore the applications of stable diffusion experiments
     - Main implementation part under 03_Application_in_Video_Content_Creation folder
+  - Participate in writing reports
+    - CS577_Project_proposal.pdf
+    - CS577_Intermediate_Project_Report.pdf
+    - CS577_Final_Project_Report.pdf
   - Prepare presentation slides
     - 06_Final_Project_Presentation/Explore the Application of Diffusion Model in Video Content Creation.pptx
   - Participated in discussions for project with online meeting
-  - Sync the project progress updates to the repository
 ---
 
 - The jupyter notebook of the experimental part can be run directly in `colab`. Other parts of the code need to install the necessary libraries before testing. You can find it in the notes in the notebook.
